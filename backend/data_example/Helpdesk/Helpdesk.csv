@@ -1,0 +1,2 @@
+CaseID,Activity,Resource,CompleteTimestamp,VariantIndex,seriousness,customer,product,responsible_section,seriousness_2,service_level,service_type,support_section,workgroup
+Case 1,Assign seriousness,Value 1,2012/10/09 14:50:17.000,12,Value 1,Value 1,Value 1,Value 1,Value 1,Value 1,Value 1,Value 1,Value 1
